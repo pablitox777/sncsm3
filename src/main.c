@@ -6,6 +6,13 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include "rom.h"
+#include "table/beast.h"
+#include "table/effect.h"
+#include "table/item.h"
+#include "table/magic.h"
+#include "table/special.h"
+#include "table/weapon.h"
 #ifndef ROM_H
 #define ROM_H
 
